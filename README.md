@@ -20,5 +20,6 @@ Using different technologies such as Python, Amazon Web Services (AWS), Apache K
 
 
 ## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
+You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
+This is the dataset used in the project - https://github.com/Jose5110/Stock-Market-Kafka-de-project/blob/main/indexProcessed.csv
 
