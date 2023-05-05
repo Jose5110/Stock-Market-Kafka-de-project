@@ -22,6 +22,3 @@ Using different technologies such as Python, Amazon Web Services (AWS), Apache K
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset used in the video - 
-
-
